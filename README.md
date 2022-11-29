@@ -32,4 +32,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Repository Link and Deployment
 [https://github.com/Jtran028/Professional-Portfolio](https://github.com/Jtran028/Professional-Portfolio)
+[https://jtran028.github.io/Professional-Portfolio/](https://jtran028.github.io/Professional-Portfolio/)
 
